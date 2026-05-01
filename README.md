@@ -1,8 +1,7 @@
 # Hello, I'm August Stetler
 <a href="https://www.linkedin.com/in/auguststetler/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Aspiring SOC Analyst | Cybersecurity Enthusiast
-Focused on protecting systems and data. Currently honing my skills in threat analysis, incident response, and security tools. Exploring cybersecurity challenges through hands-on projects and certifications. Open to entry-level opportunities to contribute and grow in the field.
+N/A
 
 ## Objective
 
